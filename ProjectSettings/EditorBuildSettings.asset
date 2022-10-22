@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 23af6ab17f5bd5c44b1bdf831920c057
+  - enabled: 1
+    path: Assets/Scenes/Level01_MotoRunner.unity
+    guid: 84729eeda748340d0955715b6a50b370
+  - enabled: 1
+    path: Assets/Scenes/Level02_SkateTaxi.unity
+    guid: dc8c9f3efd746429fa6f9482dc779492
+  - enabled: 1
+    path: Assets/Scenes/Level03_Fruit.unity
+    guid: 438ae92be930a18479655beb7f3c41d3
+  - enabled: 1
+    path: Assets/Scenes/Level04_CatFeeding.unity
+    guid: f0196d95ff9244ffaa65879ba7824fd4
+  - enabled: 1
+    path: Assets/Scenes/Level05_ToiletPaper - Proto Series.unity
+    guid: 75de4b922c4e6fc4db2937a2bb3018fc
+  m_configObjects: {}
